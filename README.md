@@ -144,6 +144,6 @@ búsquedas/filtros sin resultados muestran un mensaje claro.
 ```
 
 ## 🔗 Enlaces
-- **Repositorio GitHub:** *[Pegar el link del repositorio]*
+- **Repositorio GitHub:** *https://github.com/Zay016/TP-Integrador-Paises/tree/main*
 - **Video explicativo (10-15 min):** *[Pegar el link público del video — YouTube/Drive]*
 - **Documentación (PDF):** disponible en la raíz del repositorio.
