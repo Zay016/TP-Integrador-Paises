@@ -1,7 +1,6 @@
 # 🌍 Gestión de Datos de Países en Python
 
-Trabajo Práctico Integrador (TPI) — **Programación 1**
-Tecnicatura Universitaria en Programación a Distancia (TUPAD) — UTN
+Sistema de gestión de países en Python con búsquedas, filtros, ordenamientos y estadísticas.
 
 Aplicación de consola en Python para **gestionar información de países**: permite
 cargar datos desde un archivo CSV, agregar y actualizar países, buscar, filtrar,
