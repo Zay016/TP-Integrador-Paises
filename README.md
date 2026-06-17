@@ -30,10 +30,9 @@ condicionales, ordenamientos y estadísticas básicas.
 - **Profesores:** *[Completar con el/los nombre/s del equipo docente]*
 
 ## 👥 Integrantes
-| Nombre y Apellido | Tareas principales |
+| Nombre y Apellido |
 |---|---|
-| *[Integrante 1]* |  Zaylene Gascon |
----
+| *[Zaylene Gascon]* |
 
 ## 📝 Descripción
 El sistema gestiona un conjunto de países. Cada país se representa con un
@@ -143,5 +142,5 @@ búsquedas/filtros sin resultados muestran un mensaje claro.
 
 ## 🔗 Enlaces
 - **Repositorio GitHub:** *https://github.com/Zay016/TP-Integrador-Paises/tree/main*
-- **Video explicativo (10-15 min):** *[Pegar el link público del video — YouTube/Drive]*
+- **Video explicativo :** *[https://youtu.be/CXHaFGJY8wE]*
 - **Documentación (PDF):** disponible en la raíz del repositorio.
