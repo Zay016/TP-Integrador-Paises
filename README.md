@@ -33,8 +33,6 @@ condicionales, ordenamientos y estadísticas básicas.
 | Nombre y Apellido | Tareas principales |
 |---|---|
 | *[Integrante 1]* |  Zaylene Gascon |
-| *[Integrante 2]* | *[Ej.: módulos de filtros, ordenamiento y estadísticas]* |
-
 ---
 
 ## 📝 Descripción
